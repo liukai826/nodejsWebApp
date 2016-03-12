@@ -1,0 +1,17 @@
+{
+  "name": "test_node",
+  "version": "1.0.0",
+  "description": "a web application for note",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaka",
+  "license": "ISC",
+  "dependencies": {
+    "connect-mongo": "^1.1.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0"
+  }
+}

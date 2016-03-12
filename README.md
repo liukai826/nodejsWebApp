@@ -1,2 +1,2 @@
 # nodejsWebApp
-a simple web application(nodejs)
+a simple web application
